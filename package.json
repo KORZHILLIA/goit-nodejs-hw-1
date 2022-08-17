@@ -1,0 +1,25 @@
+{
+  "name": "goit-nodejs-hw-1",
+  "version": "1.0.0",
+  "description": "Node.js homeWork 1",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "start:dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KORZHILLIA/goit-nodejs-hw-1.git"
+  },
+  "author": "Korj Illia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KORZHILLIA/goit-nodejs-hw-1/issues"
+  },
+  "homepage": "https://github.com/KORZHILLIA/goit-nodejs-hw-1#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.19",
+    "yargs": "^17.5.1"
+  }
+}
